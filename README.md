@@ -1,6 +1,6 @@
-# Bucks2Bar
+# SpendWise
 
-Bucks2Bar is a simple web application for visualizing monthly incomes and expenses using a bar chart. It provides a user-friendly interface to input data for each month and view/download a chart representation.
+SpendWise is a simple web application for visualizing monthly incomes and expenses using a bar chart. It provides a user-friendly interface to input data for each month and view/download a chart representation.
 
 ## Features
 - Input monthly incomes and expenses (January to December)
