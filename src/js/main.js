@@ -64,11 +64,15 @@ const renderChart = () => {
             datasets: [{
                 label: 'Income',
                 data: incomes,
-                backgroundColor: 'rgba(40, 167, 69, 0.7)'
+                backgroundColor: 'rgba(40, 167, 69, 0.2)',
+                borderColor: 'rgba(40, 167, 69)',
+                borderWidth: 1
             }, {
                 label: 'Expense',
                 data: expenses,
-                backgroundColor: 'rgba(220, 53, 69, 0.7)'
+                backgroundColor: 'rgba(220, 53, 69, 0.2)',
+                borderColor: 'rgba(220, 53, 69)',
+                borderWidth: 1
             }]
         },
         options: {

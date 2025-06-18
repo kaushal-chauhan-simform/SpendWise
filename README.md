@@ -1,6 +1,6 @@
 # SpendWise
 
-SpendWise is a simple web application for visualizing monthly incomes and expenses using a bar chart. It provides a user-friendly interface to input data for each month and view/download a chart representation.
+SpendWise is a simple and intuitive web application that helps you visualize your monthly incomes and expenses with a clear bar chart. Easily input your data for each month, instantly see the comparison between your earnings and spendings, and download the chart for your records or reports.
 
 ## Features
 - Input monthly incomes and expenses (January to December)
@@ -17,15 +17,15 @@ SpendWise is a simple web application for visualizing monthly incomes and expens
 ## Getting Started
 
 ### 1. Clone or Download
-Clone this repository or download the source code to your local machine.
+Download the source code or clone this repository to your local machine.
 
 ### 2. Open the App
-Open `src/index.html` in your web browser. No build step is required.
+Simply open `src/index.html` in your web browser. No installation or build steps are required.
 
 ### 3. Usage
-- Enter your income and expense values for each month in the Data tab.
-- Switch to the Chart tab to view the bar chart.
-- Click the **Download** button to save the chart as a PNG image.
+- Enter your income and expense values for each month in the **Data** tab.
+- Switch to the **Chart** tab to view your data as a bar chart.
+- Click the **Download** button to save the chart as a PNG image for your records.
 
 ## File Structure
 ```
